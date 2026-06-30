@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
