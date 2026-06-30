@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
