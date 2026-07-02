@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0001-two-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
