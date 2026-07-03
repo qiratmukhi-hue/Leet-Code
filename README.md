@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0790-domino-and-tromino-tiling](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -83,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
