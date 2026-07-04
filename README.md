@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
