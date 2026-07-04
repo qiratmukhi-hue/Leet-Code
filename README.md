@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0001-two-sum) |
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
