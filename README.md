@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0072-edit-distance) |
 | [0790-domino-and-tromino-tiling](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0196-delete-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
