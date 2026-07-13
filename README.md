@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
