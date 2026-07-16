@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -153,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1291-sequential-digits) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
