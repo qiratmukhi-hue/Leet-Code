@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0001-two-sum) |
 | [0216-combination-sum-iii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0216-combination-sum-iii) |
+| [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0072-edit-distance) |
 | [0790-domino-and-tromino-tiling](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
+| [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
