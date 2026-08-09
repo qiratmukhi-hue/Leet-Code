@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
@@ -220,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
