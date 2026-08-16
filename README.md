@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -262,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
