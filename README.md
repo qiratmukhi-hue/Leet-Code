@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0001-two-sum) |
 | [0216-combination-sum-iii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0216-combination-sum-iii) |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -160,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -286,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
