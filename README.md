@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0001-two-sum) |
 | [0216-combination-sum-iii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0072-edit-distance) |
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
