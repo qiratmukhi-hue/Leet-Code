@@ -275,12 +275,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
