@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -245,15 +249,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
