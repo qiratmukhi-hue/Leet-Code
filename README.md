@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
 | ------- |
