@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
