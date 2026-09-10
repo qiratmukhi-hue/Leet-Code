@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
