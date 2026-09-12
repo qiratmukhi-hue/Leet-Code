@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1872-stone-game-viii](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/qiratmukhi-hue/Leet-Code/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
